@@ -1,0 +1,12 @@
+{
+  "name": "attendanse_manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IrukNuj/attendanse_manager.git",
+  "author": "IrukNuj <b1716568@planet.kanazawa-it.ac.jp>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "googleapis": "39"
+  }
+}
