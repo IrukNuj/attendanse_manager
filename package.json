@@ -8,5 +8,11 @@
   "private": false,
   "dependencies": {
     "googleapis": "39"
+  },
+  "devDependencies": {
+    "@types/node": "^13.5.0",
+    "core-js": "^3.6.4",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
   }
 }
